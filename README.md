@@ -1,6 +1,9 @@
 # Get Started
 
 ## Software requirements
+- Visual Paradigm
+
+Install the community version of [Visual Paradigm](https://www.visual-paradigm.com/editions/community/), since the Standard Version trial is free for 30 days
 - Java 17
 
 Download and install [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html). Create an environmental variable named JAVA_HOME pointing to JDK installation folder, and add **%JAVA_HOME%/bin** to your **PATH** environment variable.
@@ -20,9 +23,6 @@ Download and install [Docker Desktop](https://www.docker.com/products/docker-des
 - Postman
 
 Download and install [Postman](https://www.postman.com/downloads/)
-- Visual Paradigm
-
-Install the community version of [Visual Paradigm](https://www.visual-paradigm.com/editions/community/), since the Standard Version trial is free for 30 days
 
 
 ## Accounts
