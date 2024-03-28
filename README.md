@@ -23,6 +23,9 @@ Download and install [Docker Desktop](https://www.docker.com/products/docker-des
 - Postman
 
 Download and install [Postman](https://www.postman.com/downloads/)
+- XAMPP
+
+Download and install [XAMPP](https://www.apachefriends.org/download.html) v. 8.0.30.
 
 
 ## Accounts
